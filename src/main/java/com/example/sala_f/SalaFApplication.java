@@ -13,7 +13,7 @@ public class SalaFApplication {
 
 	@GetMapping("/hello")
 	public String hello(){
-		return "Germinare Tech - Lena";
+		return "Germinare Tech - lena1";
 	}
 
 }
